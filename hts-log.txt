@@ -1,0 +1,83 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 22 Apr 2018 18:56:46 at http://localhost/drch/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/drch/ -O1 "C:\My Web Sites\DrEiliewa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:59:39	Error: 	"Not Found" (404) at link localhost/drch/wp-content/plugins/fonts.googleapis.com/css?family=PT+Sans%3A400%2C700&subset=latin-ext&ver=1.0.2 (from localhost/drch/)
+19:09:08	Warning: 	Moved Permanently for localhost/drch/?p=23
+19:09:08	Warning: 	File has moved from localhost/drch/?p=23 to http://localhost/drch/%d8%af-%d8%b9%d9%84%d9%8a%d9%88%d8%a9-%d9%81%d9%89-%d8%b3%d8%b7%d9%88%d8%b1/
+19:09:09	Warning: 	Moved Permanently for localhost/drch/?p=24
+19:09:09	Warning: 	File has moved from localhost/drch/?p=24 to http://localhost/drch/%d9%85%d9%86-%d9%86%d8%ad%d9%86/
+19:09:09	Warning: 	Moved Permanently for localhost/drch/?p=25
+19:09:09	Warning: 	File has moved from localhost/drch/?p=25 to http://localhost/drch/%d8%ae%d8%b1%d9%8a%d8%b7%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%b9/
+19:09:09	Warning: 	Moved Permanently for localhost/drch/?p=22
+19:09:09	Warning: 	File has moved from localhost/drch/?p=22 to http://localhost/drch/%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%82%d8%b9/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=123
+19:10:10	Warning: 	File has moved from localhost/drch/?p=123 to http://localhost/drch/2018/04/18/%d8%b9%d9%8a%d8%a7%d8%af%d9%87-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87-%d8%af-%d8%ae%d8%a7%d9%84%d8%af-%d8%ad%d9%85%d8%af%d9%89-%d9%82%d9%88%d8%a7%d9%86%d9%8a%d9%86-%d8%a7%d9%84%d8%a7%d9%86%d8%ac/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=120
+19:10:10	Warning: 	File has moved from localhost/drch/?p=120 to http://localhost/drch/2018/04/18/%d8%b9%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d8%a9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%81%d9%89-%d8%b9%d9%84%d8%a7%d8%ac-%d8%b9%d9%82%d9%85-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=117
+19:10:10	Warning: 	File has moved from localhost/drch/?p=117 to http://localhost/drch/2018/04/18/%d8%b9%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d8%a9-%d8%b9%d9%82%d9%85-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84-%d8%af-%d8%ae%d8%a7%d9%84%d8%af-%d8%ad%d9%85%d8%af%d9%89-%d8%b9%d9%84/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=114
+19:10:10	Warning: 	File has moved from localhost/drch/?p=114 to http://localhost/drch/2018/04/18/%d8%b9%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d8%a9-%d9%84%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1-%d8%ae%d8%a7%d9%84%d8%af-%d8%ad%d9%85%d8%af%d9%8a-%d8%b9%d9%84%d9%8a%d9%88%d8%a9-23-10/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=111
+19:10:10	Warning: 	File has moved from localhost/drch/?p=111 to http://localhost/drch/2018/04/18/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a2%d8%af%d9%85-%d8%ad%d9%84%d9%82%d8%a9-%d8%af-%d8%ae%d8%a7%d9%84%d8%af-%d8%ad%d9%85%d8%af%d9%8a-%d8%b9%d9%84%d9%8a%d9%88%d9%87/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=105
+19:10:10	Warning: 	File has moved from localhost/drch/?p=105 to http://localhost/drch/2018/04/18/%d8%b9%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d8%a9-%d8%b9%d9%82%d9%85-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84-%d8%af%d9%83%d8%aa%d9%88%d8%b1-%d8%ae%d8%a7%d9%84%d8%af-%d8%ad%d9%85/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=97
+19:10:10	Warning: 	File has moved from localhost/drch/?p=97 to http://localhost/drch/2018/04/18/5356-%d8%b9%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d8%a9-%d8%b9%d9%82%d9%85-%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84-%d8%af%d9%83%d8%aa%d9%88%d8%b1-%d8%ae%d8%a7%d9%84%d8%af-%d8%ad/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=74
+19:10:10	Warning: 	File has moved from localhost/drch/?p=74 to http://localhost/drch/2018/04/18/%d9%84%d9%85%d9%91-%d8%a8%d8%a3%d9%8a%d8%af%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%b7-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9-%d9%83%d9%84-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%b6%d9%85%d9%86-4/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=75
+19:10:10	Warning: 	File has moved from localhost/drch/?p=75 to http://localhost/drch/2018/04/18/%d9%84-%d8%ac%d9%8f%d9%84-%d8%ac%d9%86%d9%88%d8%a8-%d8%aa%d8%b3%d9%85%d9%91%d9%89-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b6%d9%89-%d8%b9%d9%8f%d9%82%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1-4/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=76
+19:10:10	Warning: 	File has moved from localhost/drch/?p=76 to http://localhost/drch/2018/04/18/%d9%84%d9%84%d8%b5%d9%8a%d9%86-%d8%a7%d9%84%d8%a2%d8%ae%d8%b1-%d9%84%d9%85-%d8%ad%d8%aa%d9%89-%d8%b0%d8%a7%d8%aa-%d9%88%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1%d9%87%d9%85-4/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=77
+19:10:10	Warning: 	File has moved from localhost/drch/?p=77 to http://localhost/drch/2018/04/18/%d9%85%d9%86-%d9%83%d9%84%d9%91-%d8%a3%d9%85%d8%a7%d9%85-%d8%a8%d8%a7%d9%84%d8%ac%d8%a7%d9%86%d8%a8-%d8%a8%d9%87%d8%8c-%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d8%a9-4/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=50
+19:10:10	Warning: 	File has moved from localhost/drch/?p=50 to http://localhost/drch/2018/04/18/%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82-%d9%88%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7-%d8%ad%d9%88%d9%84-%d8%a5%d8%b0-%d8%a3%d8%b3%d9%8a%d8%a7-%d8%a8%d8%b4%d8%b1%d9%8a%d8%a9-%d8%ba%d9%8a%d8%b1-%d8%b9/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=52
+19:10:10	Warning: 	File has moved from localhost/drch/?p=52 to http://localhost/drch/2018/04/18/%d9%85%d9%86-%d9%83%d9%84%d9%91-%d8%a3%d9%85%d8%a7%d9%85-%d8%a8%d8%a7%d9%84%d8%ac%d8%a7%d9%86%d8%a8-%d8%a8%d9%87%d8%8c-%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d8%a9/
+19:10:10	Warning: 	Moved Permanently for localhost/drch/?p=58
+19:10:10	Warning: 	File has moved from localhost/drch/?p=58 to http://localhost/drch/2018/04/18/%d9%84%d9%84%d8%b5%d9%8a%d9%86-%d8%a7%d9%84%d8%a2%d8%ae%d8%b1-%d9%84%d9%85-%d8%ad%d8%aa%d9%89-%d8%b0%d8%a7%d8%aa-%d9%88%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1%d9%87%d9%85/
+19:10:16	Warning: 	Moved Permanently for localhost/drch/?p=60
+19:10:16	Warning: 	File has moved from localhost/drch/?p=60 to http://localhost/drch/2018/04/18/%d9%84-%d8%ac%d9%8f%d9%84-%d8%ac%d9%86%d9%88%d8%a8-%d8%aa%d8%b3%d9%85%d9%91%d9%89-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b6%d9%89-%d8%b9%d9%8f%d9%82%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a/
+19:10:21	Error: 	"Not Found" (404) at link localhost/drch/مثال-على-صفحة/ (from localhost/drch/category/الأهداف/)
+19:10:31	Warning: 	Moved Permanently for localhost/drch/?p=78
+19:10:31	Warning: 	File has moved from localhost/drch/?p=78 to http://localhost/drch/2018/04/18/%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82-%d9%88%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7-%d8%ad%d9%88%d9%84-%d8%a5%d8%b0-%d8%a3%d8%b3%d9%8a%d8%a7-%d8%a8%d8%b4%d8%b1%d9%8a%d8%a9-%d8%ba%d9%8a%d8%b1-4/
+19:10:31	Warning: 	Moved Permanently for localhost/drch/?p=79
+19:10:31	Warning: 	File has moved from localhost/drch/?p=79 to http://localhost/drch/2018/04/18/%d9%84%d9%85%d9%91-%d8%a8%d8%a3%d9%8a%d8%af%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%b7-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9-%d9%83%d9%84-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%b6%d9%85%d9%86-3/
+19:10:32	Warning: 	Moved Permanently for localhost/drch/?p=80
+19:10:32	Warning: 	File has moved from localhost/drch/?p=80 to http://localhost/drch/2018/04/18/%d9%84-%d8%ac%d9%8f%d9%84-%d8%ac%d9%86%d9%88%d8%a8-%d8%aa%d8%b3%d9%85%d9%91%d9%89-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b6%d9%89-%d8%b9%d9%8f%d9%82%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1-3/
+19:10:32	Warning: 	Moved Permanently for localhost/drch/?p=81
+19:10:32	Warning: 	File has moved from localhost/drch/?p=81 to http://localhost/drch/2018/04/18/%d9%84%d9%84%d8%b5%d9%8a%d9%86-%d8%a7%d9%84%d8%a2%d8%ae%d8%b1-%d9%84%d9%85-%d8%ad%d8%aa%d9%89-%d8%b0%d8%a7%d8%aa-%d9%88%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1%d9%87%d9%85-3/
+19:10:32	Warning: 	Moved Permanently for localhost/drch/?p=82
+19:10:32	Warning: 	File has moved from localhost/drch/?p=82 to http://localhost/drch/2018/04/18/%d9%85%d9%86-%d9%83%d9%84%d9%91-%d8%a3%d9%85%d8%a7%d9%85-%d8%a8%d8%a7%d9%84%d8%ac%d8%a7%d9%86%d8%a8-%d8%a8%d9%87%d8%8c-%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d8%a9-3/
+19:10:37	Warning: 	Moved Permanently for localhost/drch/?p=83
+19:10:37	Warning: 	File has moved from localhost/drch/?p=83 to http://localhost/drch/2018/04/18/%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82-%d9%88%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7-%d8%ad%d9%88%d9%84-%d8%a5%d8%b0-%d8%a3%d8%b3%d9%8a%d8%a7-%d8%a8%d8%b4%d8%b1%d9%8a%d8%a9-%d8%ba%d9%8a%d8%b1-3/
+19:10:57	Warning: 	Moved Permanently for localhost/drch/?p=127
+19:10:57	Warning: 	File has moved from localhost/drch/?p=127 to http://localhost/drch/2018/04/18/%d8%a3%d8%a8%d8%af%d8%a3-%d8%a3%d8%b9%d9%85%d8%a7%d9%84%d9%83-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ad%d8%b6%d8%a7%d8%b1-%d9%82%d9%84%d8%a8%d9%83-%d9%88%d9%86%d9%8a%d8%aa%d9%83-%d8%a8%d8%b3%d9%85-%d8%a7%d9%84/
+19:10:58	Warning: 	Moved Permanently for localhost/drch/?p=62
+19:10:58	Warning: 	File has moved from localhost/drch/?p=62 to http://localhost/drch/2018/04/18/%d9%84%d9%85%d9%91-%d8%a8%d8%a3%d9%8a%d8%af%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%b7-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9-%d9%83%d9%84-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%b6%d9%85%d9%86/
+19:10:58	Warning: 	Moved Permanently for localhost/drch/?p=5
+19:10:58	Warning: 	File has moved from localhost/drch/?p=5 to http://localhost/drch/sample-page/
+19:10:58	Warning: 	Moved Permanently for localhost/drch/?p=131
+19:10:58	Warning: 	File has moved from localhost/drch/?p=131 to http://localhost/drch/2018/04/18/%d8%a7%d8%ae%d8%aa%d9%85-%d8%a3%d8%b9%d9%85%d8%a7%d9%84%d9%83-%d8%a8%d8%a7%d9%84%d8%a5%d8%b3%d8%aa%d8%ba%d9%81%d8%a7%d8%b1-%d9%88%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1-%d8%8c%d8%a7%d9%84%d9%84%d9%87/
+19:10:58	Warning: 	Moved Permanently for localhost/drch/?p=129
+19:10:58	Warning: 	File has moved from localhost/drch/?p=129 to http://localhost/drch/2018/04/18/%d8%aa%d9%82%d9%8a%d8%af-%d8%a8%d8%a7%d9%84%d8%b3%d9%86%d9%87-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%ad%d9%87/
+19:10:58	Warning: 	Moved Permanently for localhost/drch/?p=64
+19:10:58	Warning: 	File has moved from localhost/drch/?p=64 to http://localhost/drch/2018/04/18/%d9%84%d9%85%d9%91-%d8%a8%d8%a3%d9%8a%d8%af%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%b7-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9-%d9%83%d9%84-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%b6%d9%85%d9%86-2/
+19:10:58	Warning: 	Moved Permanently for localhost/drch/?p=65
+19:10:58	Warning: 	File has moved from localhost/drch/?p=65 to http://localhost/drch/2018/04/18/%d9%84-%d8%ac%d9%8f%d9%84-%d8%ac%d9%86%d9%88%d8%a8-%d8%aa%d8%b3%d9%85%d9%91%d9%89-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%88%d9%85%d8%b6%d9%89-%d8%b9%d9%8f%d9%82%d8%b1-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1-2/
+19:10:58	Warning: 	Moved Permanently for localhost/drch/?p=66
+19:10:58	Warning: 	File has moved from localhost/drch/?p=66 to http://localhost/drch/2018/04/18/%d9%84%d9%84%d8%b5%d9%8a%d9%86-%d8%a7%d9%84%d8%a2%d8%ae%d8%b1-%d9%84%d9%85-%d8%ad%d8%aa%d9%89-%d8%b0%d8%a7%d8%aa-%d9%88%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1%d9%87%d9%85-2/
+19:10:58	Warning: 	Moved Permanently for localhost/drch/?p=67
+19:10:58	Warning: 	File has moved from localhost/drch/?p=67 to http://localhost/drch/2018/04/18/%d9%85%d9%86-%d9%83%d9%84%d9%91-%d8%a3%d9%85%d8%a7%d9%85-%d8%a8%d8%a7%d9%84%d8%ac%d8%a7%d9%86%d8%a8-%d8%a8%d9%87%d8%8c-%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d8%a9-2/
+19:10:58	Warning: 	Moved Permanently for localhost/drch/?p=68
+19:10:58	Warning: 	File has moved from localhost/drch/?p=68 to http://localhost/drch/2018/04/18/%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82-%d9%88%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7-%d8%ad%d9%88%d9%84-%d8%a5%d8%b0-%d8%a3%d8%b3%d9%8a%d8%a7-%d8%a8%d8%b4%d8%b1%d9%8a%d8%a9-%d8%ba%d9%8a%d8%b1-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 12 seconds : 462 links scanned, 424 files written (17154635 bytes overall) [17453904 bytes received at 20485 bytes/sec], 20766 bytes transferred using HTTP compression in 1 files, ratio 22%, 1.8 requests per connection
+(2 errors, 70 warnings, 0 messages)
